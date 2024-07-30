@@ -1,4 +1,4 @@
-# InkLink
+# Project InkLink
 
 InkLink is a modern blog application designed for seamless interaction with a user-friendly interface. Built using Flutter for the frontend and powered by a robust backend system, InkLink offers a comprehensive set of features for managing and discovering blogs.
 
